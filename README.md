@@ -42,6 +42,20 @@ The main objective of this project is to study and understand how the **NativeCN
 
 5. Scan the QR Code with Expo Go or run the app on an emulator.
 
+## **How to Open the App on Your Mobile Device**
+To quickly view and interact with this project on your mobile device, follow these steps:
+1. **Install Expo Go**: Download the Expo Go app from your device's app store:
+   - [Google Play Store](https://play.google.com/store/search?q=expo+go&c=apps)
+   - [App Store](https://apps.apple.com/app/expo-go/id982107779)
+   
+
+3. **Scan the QR Code**: After running ```expo start```, a QR code will appear in the terminal or on the browser. Open Expo Go on your mobile device and use the QR scanner to scan the code.
+
+4. **Alternatively, Open the Link**: If you prefer, you can also open the following link directly in Expo Go:
+     - [Open the app in Expo Go](https://expo.dev/preview/update?message=profile%20page%20with%20expo%20%2B%20nativecn&updateRuntimeVersion=1.0.0&createdAt=2024-12-10T13%3A32%3A13.271Z&slug=exp&projectId=43df6452-9821-4924-8856-5121c93d00d2&group=daab456e-4c55-4583-b0d1-5a6f8b37e792)
+
+
+
 ## **Lessons Learned**
 - **NativeCN** provides a solid approach to building native interfaces, focusing on performance and simplicity.
 - **NativeWind** integrates smoothly with the React Native ecosystem, enabling responsive styling using classes similar to Tailwind CSS.
